@@ -1,12 +1,18 @@
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://cdn.dribbble.com/users/23012/screenshots/2994574/wlecome.gif"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Hi 👋! My name is vaibhav kalwaghe and I'm a student of Information Technology, from sanjivani college of engineering, kopargaon</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=vkalwaghe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="140" alt="streak graph"  />

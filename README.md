@@ -1,306 +1,585 @@
-# 👋 Hi, I'm Vaibhav Kalwaghe
+<h1 align="center">Hi 👋, I'm Vaibhav Kalwaghe</h1>
 
-### Information Technology Student | Data Engineering | AI/ML | Cybersecurity | Full-Stack Development
+<h3 align="center">
+Information Technology Student | Data Engineering | AI/ML | Cybersecurity | Full-Stack Development
+</h3>
 
-I'm an **Information Technology undergraduate at Sanjivani College of Engineering, Kopargaon**, passionate about building practical solutions across **Data Engineering, Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development**.
+<p align="center">
+  <a href="https://github.com/vkalwaghe">
+    <img src="https://img.shields.io/github/followers/vkalwaghe?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/vkalwaghe">
+    <img src="https://img.shields.io/github/stars/vkalwaghe?label=Stars&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vkalwaghe&label=Profile%20Views&style=for-the-badge" />
+</p>
 
-I enjoy transforming ideas into working systems — from **cloud-based data pipelines and ML models to secure applications and full-stack platforms**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" width="400"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-* 🎓 Information Technology Undergraduate
-* 💻 Interested in **Data Engineering, AI/ML, Cybersecurity & Software Engineering**
-* ☁️ Building projects with **Azure Data Factory, ADLS Gen2, Databricks & PySpark**
-* 🤖 Exploring **Machine Learning, Edge AI & Transformer Robustness**
-* 🔐 Interested in **Post-Quantum Cryptography & AI Security**
-* 🌐 Developing applications using **React, JavaScript & modern web technologies**
-* 📊 Interested in **data analytics, ETL pipelines and business intelligence**
-* 🔬 Passionate about research-oriented technology projects
+🎓 B.Tech Information Technology student at **Sanjivani College of Engineering, Kopargaon**
 
----
+💡 Interested in building **data-driven, secure, scalable and intelligent software systems**
 
-# 🛠️ Technical Skills
+☁️ Currently focusing on **Data Engineering, Cloud Technologies, Data Analytics and AI/ML**
 
-### Programming Languages
+🤖 Exploring **Machine Learning, Deep Learning, Transformer-based AI and AI Security**
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL"/>
-</p>
+🔐 Interested in **Cybersecurity, Cryptography, Network Security and Post-Quantum Cryptography**
 
-### Data Engineering & Analytics
+💻 Experience across **Machine Learning, Data Engineering, Full-Stack Development and Cloud Platforms**
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Apache Spark"/>
-</p>
+🧠 Strong foundation in **Python, Java, SQL, Data Structures, Algorithms and Object-Oriented Programming**
 
-* Azure Data Factory
-* Azure Data Lake Storage Gen2
-* Azure Databricks
-* PySpark
-* Delta Lake
-* ETL / ELT Pipelines
-* Data Cleaning & Validation
-* Data Aggregation
-* SQL
-* Power BI
-* Pandas & NumPy
-
-### Machine Learning & AI
-
-* Scikit-learn
-* PyTorch
-* Classification & Regression
-* Anomaly Detection
-* Autoencoders
-* Model Evaluation
-* Edge AI
-* Transformer Models
-* Adversarial Robustness
-
-### Cybersecurity
-
-* Network Security
-* Anomaly Detection
-* Cryptography
-* Post-Quantum Cryptography
-* Secure Coding
-* Vulnerability Analysis
-* AI Security
-
-### Web & Software Development
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-</p>
-
-* React.js
-* JavaScript
-* HTML5
-* CSS3
-* Angular
-* REST APIs
-* Full-Stack Development
-
-### Tools & Platforms
-
-* Git & GitHub
-* Linux
-* Jupyter Notebook
-* VS Code
-* Azure
-* Docker
+🚀 I enjoy transforming **raw data into insights, intelligent models and production-oriented applications**
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Technical Domains
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ## ☁️ Data Engineering
 
-### [RetailPulse — Azure Data Platform](https://github.com/vkalwaghe/RetailPulse-Azure-Data-Platform)
+Building data pipelines and cloud-based data processing solutions.
 
-End-to-end Azure data engineering pipeline for ingesting, transforming and analyzing retail sales data.
+### Technologies
 
-**Tech:** Azure Data Factory • ADLS Gen2 • Azure SQL • ETL
+* Python
+* SQL
+* PySpark
+* Pandas
+* NumPy
+* Azure Data Factory
+* Azure Data Lake
+* ETL / ELT
+* Data Cleaning
+* Data Validation
+* Data Pipelines
+* Data Processing
 
----
+### Featured Projects
 
-### [TerraPulse — Agricultural Data Intelligence Platform](https://github.com/vkalwaghe/TerraPulse-Agricultural-Data-Intelligence-Platform)
+**🌾 TerraPulse — Agricultural Data Intelligence Platform**
 
-Cloud-based agricultural data engineering platform that integrates weather, soil, crop yield and market datasets into analytics-ready data layers.
+End-to-end cloud data engineering platform designed to process heterogeneous agricultural datasets and transform them into structured, analytics-ready data.
 
-**Tech:** Azure Data Factory • ADLS Gen2 • Databricks • PySpark • Delta Lake • Power BI
-
----
-
-### [OrderPulse — Order & Sales Intelligence](https://github.com/vkalwaghe/OrderPulse-Order-Sales-Intelligence)
-
-Data analytics project focused on analyzing transactional order data to identify sales trends, customer behavior and business KPIs.
-
-**Focus:** Data Analysis • Business Intelligence • Sales Analytics • KPIs
-
----
-
-# 🤖 Artificial Intelligence & Machine Learning
-
-### [Lightweight AI Model for Network Anomaly Detection at Edge](https://github.com/vkalwaghe/Lightweight-AI-Model-for-Network-Anomaly-Detection-at-Edge)
-
-A resource-efficient AI framework designed for detecting abnormal network traffic at the edge with a focus on low-latency inference.
-
-**Tech:** Python • Machine Learning • Edge AI
+🔗 **Repository:** [TerraPulse-Agricultural-Data-Intelligence-Platform](https://github.com/vkalwaghe/TerraPulse-Agricultural-Data-Intelligence-Platform)
 
 ---
 
-### [NetSentinel — Intelligent Network Anomaly Detection](https://github.com/vkalwaghe/NetSentinel-Intelligent-Network-Anomaly-Detection-System)
+**🛒 RetailPulse — Azure Data Platform**
 
-Machine-learning-based network anomaly detection system using an autoencoder to identify abnormal network flow behavior.
+Cloud-based retail data engineering solution for ingesting, transforming and analyzing sales data using Azure data services.
 
-**Tech:** Python • Autoencoder • Machine Learning • Network Security
+🔗 **Repository:** [RetailPulse-Azure-Data-Platform](https://github.com/vkalwaghe/RetailPulse-Azure-Data-Platform)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 Data Analytics
+
+Analyzing transactional and business data to identify trends, patterns and actionable insights.
+
+### Areas
+
+* SQL Analytics
+* Exploratory Data Analysis
+* Data Cleaning
+* Data Transformation
+* KPI Analysis
+* Sales Analysis
+* Customer Analysis
+* Business Intelligence
+* Data Visualization
+
+### Featured Project
+
+**📈 OrderPulse — Order & Sales Intelligence**
+
+Data analytics project focused on analyzing transactional order data, sales performance, customer behavior, order trends and business KPIs.
+
+🔗 **Repository:** [OrderPulse-Order-Sales-Intelligence](https://github.com/vkalwaghe/OrderPulse-Order-Sales-Intelligence)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### [SecureShield — Transformer Robustness Evaluation Framework](https://github.com/vkalwaghe/SecureShield-Robustness-Evaluation-Framework-for-Transformer-Based-AI-Models)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 AI / Machine Learning
+
+Developing machine learning solutions for classification, regression, anomaly detection and intelligent systems.
+
+### Technologies
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Matplotlib
+* Machine Learning
+* Classification
+* Regression
+* Anomaly Detection
+* Model Evaluation
+* Deep Learning
+* Transformers
+
+### Featured Projects
+
+**🧠 Machine Learning**
+
+Collection of machine learning implementations covering multiple classification and regression algorithms using practical datasets and model evaluation techniques.
+
+🔗 **Repository:** [Machine-Learning](https://github.com/vkalwaghe/Machine-Learning)
+
+---
+
+**🎯 ClassifyIQ — Classification with Logistic Regression**
+
+Machine learning project demonstrating logistic regression for binary classification using practical datasets and predictive modeling techniques.
+
+🔗 **Repository:** [ClassifyIQ-Classification-with-Logistic-Regression-Project](https://github.com/vkalwaghe/ClassifyIQ-Classification-with-Logistic-Regression-Project)
+
+---
+
+**📡 NetSentinel — Intelligent Network Anomaly Detection**
+
+Machine-learning-based network anomaly detection system using an autoencoder to identify abnormal network traffic.
+
+🔗 **Repository:** [NetSentinel-Intelligent-Network-Anomaly-Detection-System](https://github.com/vkalwaghe/NetSentinel-Intelligent-Network-Anomaly-Detection-System)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔐 Cybersecurity & AI Security
+
+Exploring secure systems, cryptography, adversarial robustness and post-quantum security.
+
+### Areas
+
+* Cryptography
+* Network Security
+* AI Security
+* Adversarial Machine Learning
+* Model Robustness
+* Secure Software Development
+* Post-Quantum Cryptography
+* Digital Signatures
+* Network Anomaly Detection
+* Vulnerability Analysis
+
+### Featured Projects
+
+**🛡️ SecureShield — AI Robustness Evaluation Framework**
 
 Framework for evaluating the robustness of Transformer-based AI models against adversarial perturbations and reliability threats.
 
-**Tech:** Python • PyTorch • Transformers • AI Security
+🔗 **Repository:** [SecureShield-Robustness-Evaluation-Framework-for-Transformer-Based-AI-Models](https://github.com/vkalwaghe/SecureShield-Robustness-Evaluation-Framework-for-Transformer-Based-AI-Models)
 
 ---
 
-### [ClassifyIQ — Logistic Regression Classification](https://github.com/vkalwaghe/ClassifyIQ-Classification-with-Logistic-Regression-Project)
+**🔒 Quantum-Safe VPN Simulation**
 
-Machine learning project exploring binary classification using Logistic Regression on practical datasets.
+Post-quantum cryptography-based VPN prototype using quantum-resistant algorithms for secure key exchange and digital signatures.
 
-**Tech:** Python • Scikit-learn • Jupyter Notebook • Machine Learning
-
----
-
-### [RecipeWise — Personalized Recipe Recommendation Engine](https://github.com/vkalwaghe/RecipeWise-Personalized-Recipe-Recommendation-Engine)
-
-Python-based recommendation system that suggests recipes based on ingredients, cuisine preferences and dietary requirements.
-
-**Tech:** Python • Recommendation System • Data Processing
+🔗 **Repository:** [Quantum-Safe-VPN-Simulation](https://github.com/vkalwaghe/Quantum-Safe-VPN-Simulation)
 
 ---
 
-# 🔐 Cybersecurity & Post-Quantum Computing
+**📡 Lightweight AI Network Anomaly Detection**
 
-### [Quantum-Safe VPN Simulation](https://github.com/vkalwaghe/Quantum-Safe-VPN-Simulation)
+Resource-efficient machine learning framework designed for low-latency network anomaly detection at the edge.
 
-Post-quantum secure VPN prototype exploring quantum-resistant cryptographic mechanisms for secure communication.
+🔗 **Repository:** [Lightweight-AI-Model-for-Network-Anomaly-Detection-at-Edge](https://github.com/vkalwaghe/Lightweight-AI-Model-for-Network-Anomaly-Detection-at-Edge)
 
-**Tech:** Python • Post-Quantum Cryptography • Kyber • Dilithium • Networking
+</td>
 
----
-
-# 🌐 Full-Stack & Web Development
-
-### [BrewDesk — Café Commerce & Admin Platform](https://github.com/vkalwaghe/BrewDesk-Cafe-Commerce-Admin-Platform)
-
-Full-stack café commerce platform featuring customer ordering, product management and an administrative dashboard.
-
-**Tech:** React • JavaScript • Web Development
+</tr>
+</table>
 
 ---
 
-### [Velvan Agro — Smart Agriculture Platform](https://github.com/vkalwaghe/Velvan-Agro)
+<table>
+<tr>
 
-React-based agricultural platform designed to connect farmers with digital tools, agricultural information and data-driven services.
+<td width="50%" valign="top">
 
-**Tech:** React • JavaScript • Frontend Development
+## 💻 Full-Stack Development
+
+Building responsive and functional web applications using modern frontend technologies.
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Angular
+
+### Backend & APIs
+
+* Java
+* REST APIs
+* Node.js
+* Spring Boot
+
+### Databases
+
+* MySQL
+* MongoDB
+* Firebase
+
+### Featured Projects
+
+**☕ BrewDesk — Cafe Commerce Admin Platform**
+
+Full-stack café commerce platform built with React, supporting customer ordering, product management and administrative operations.
+
+🔗 **Repository:** [BrewDesk-Cafe-Commerce-Admin-Platform](https://github.com/vkalwaghe/BrewDesk-Cafe-Commerce-Admin-Platform)
 
 ---
 
-### [Web Development Projects](https://github.com/vkalwaghe/Web_Development_projects)
+**🌾 Velvan Agro**
 
-Collection of frontend projects including a university landing page, portfolio website and interactive calculator.
+React-based smart agriculture platform connecting farmers with agricultural information, digital tools and data-driven services.
 
-**Tech:** HTML • CSS • JavaScript
+🔗 **Repository:** [Velvan-Agro](https://github.com/vkalwaghe/Velvan-Agro)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐍 Python Projects
+
+Developing practical Python applications across machine learning, analytics and recommendation systems.
+
+### Featured Projects
+
+**🍳 RecipeWise — Personalized Recipe Recommendation Engine**
+
+Python-based recommendation system that provides recipe suggestions based on ingredients, cuisine preferences and dietary requirements.
+
+🔗 **Repository:** [RecipeWise-Personalized-Recipe-Recommendation-Engine](https://github.com/vkalwaghe/RecipeWise-Personalized-Recipe-Recommendation-Engine)
 
 ---
 
-# 📚 Web Development Lab
+**📊 Machine Learning Algorithms**
 
-### [Web Development Lab](https://github.com/vkalwaghe/Web_Developmet_Lab)
+Collection of classification and regression implementations with practical datasets, preprocessing and model evaluation.
 
-Collection of practical web development implementations covering frontend concepts, UI development, Angular and interactive web applications.
-
-**Tech:** HTML • CSS • JavaScript • Angular
+🔗 **Repository:** [Machine-Learning](https://github.com/vkalwaghe/Machine-Learning)
 
 ---
 
-# 📊 Machine Learning Repository
+**🛡️ SecureShield**
 
-### [Machine Learning](https://github.com/vkalwaghe/Machine-Learning)
+Python-based AI security research project focused on evaluating Transformer model robustness.
 
-Collection of practical Machine Learning implementations covering **classification and regression algorithms**, dataset exploration and model evaluation.
+🔗 **Repository:** [SecureShield](https://github.com/vkalwaghe/SecureShield-Robustness-Evaluation-Framework-for-Transformer-Based-AI-Models)
 
-**Topics:**
+</td>
 
-* Classification
-* Regression
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css" />
+</p>
+
+### ☁️ Data Engineering & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,python" />
+</p>
+
+**Technologies:** PySpark • SQL • Azure Data Factory • Data Pipelines • ETL • ELT • Data Cleaning • Data Processing
+
+### 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Technologies:** SQL • Python • Pandas • NumPy • Matplotlib • Exploratory Data Analysis • KPI Analysis • Data Visualization
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+**Technologies:** Scikit-learn • PyTorch • Pandas • NumPy • Machine Learning • Classification • Regression • Anomaly Detection • Deep Learning • Transformers
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,nodejs,spring" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+### 🔐 Cybersecurity
+
+**Cryptography • Post-Quantum Cryptography • Network Security • AI Security • Adversarial ML • Secure Coding • Vulnerability Analysis • Digital Signatures**
+
+### 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## ☁️ Data Engineering & Analytics
+
+| Project            | Description                                                        | Technologies                            |
+| ------------------ | ------------------------------------------------------------------ | --------------------------------------- |
+| 🌾 **TerraPulse**  | End-to-end agricultural data engineering and intelligence platform | Python, PySpark, Azure, Data Pipelines  |
+| 🛒 **RetailPulse** | Azure-based retail data ingestion and transformation platform      | Azure Data Factory, Azure Data Platform |
+| 📈 **OrderPulse**  | Order, sales and customer analytics project                        | Python, SQL, Data Analytics             |
+
+---
+
+## 🤖 AI / Machine Learning
+
+| Project                    | Description                                            | Technologies                  |
+| -------------------------- | ------------------------------------------------------ | ----------------------------- |
+| 🧠 **Machine Learning**    | Collection of classification and regression algorithms | Python, Scikit-learn, Jupyter |
+| 🎯 **ClassifyIQ**          | Logistic regression classification project             | Python, Scikit-learn          |
+| 📡 **NetSentinel**         | Autoencoder-based network anomaly detection            | Python, Machine Learning      |
+| 📡 **Lightweight Edge AI** | Resource-efficient network anomaly detection           | Python, ML, Edge AI           |
+| 🍳 **RecipeWise**          | Personalized recipe recommendation system              | Python, Recommendation System |
+
+---
+
+## 🔐 Cybersecurity & AI Security
+
+| Project                          | Description                                      | Technologies                 |
+| -------------------------------- | ------------------------------------------------ | ---------------------------- |
+| 🛡️ **SecureShield**             | Transformer robustness evaluation framework      | Python, PyTorch, AI Security |
+| 🔒 **Quantum-Safe VPN**          | Post-quantum secure VPN prototype                | Python, Kyber, Dilithium     |
+| 📡 **Network Anomaly Detection** | ML-powered anomaly detection for network traffic | Python, Machine Learning     |
+
+---
+
+## 💻 Web & Full-Stack Development
+
+| Project                         | Description                                           | Technologies                   |
+| ------------------------------- | ----------------------------------------------------- | ------------------------------ |
+| ☕ **BrewDesk**                  | Café commerce platform with admin panel               | React, JavaScript              |
+| 🌾 **Velvan Agro**              | Smart agriculture web platform                        | React, JavaScript              |
+| 🌐 **Web Development Projects** | Collection of frontend development projects           | HTML, CSS, JavaScript          |
+| 🧪 **Web Development Lab**      | Practical web development and Angular implementations | HTML, CSS, JavaScript, Angular |
+
+---
+
+# 📚 Machine Learning
+
+My machine learning repository contains implementations and experiments covering major supervised learning algorithms.
+
+### Classification
+
+* Logistic Regression
+* K-Nearest Neighbors
+* Decision Tree
+* Random Forest
+* Support Vector Machine
+* Naive Bayes
+* Classification Model Evaluation
+
+### Regression
+
+* Linear Regression
+* Multiple Linear Regression
+* Polynomial Regression
+* Decision Tree Regression
+* Random Forest Regression
+* Regression Model Evaluation
+
+### Supporting Concepts
+
 * Data Preprocessing
+* Feature Engineering
+* Train-Test Split
+* Feature Scaling
 * Model Training
 * Model Evaluation
-* Jupyter Notebooks
+* Confusion Matrix
+* Accuracy
+* Precision
+* Recall
+* F1-Score
+* Cross Validation
+
+🔗 **Repository:** [Machine-Learning](https://github.com/vkalwaghe/Machine-Learning)
 
 ---
 
-# 🔬 Areas of Interest
+# 🔐 Security & Research Interests
+
+I am particularly interested in the intersection of **Artificial Intelligence and Cybersecurity**.
+
+### Current Areas of Interest
 
 ```text
-Data Engineering
-      ↓
-ETL / ELT → Data Lakes → PySpark → Cloud Analytics
-      ↓
-Azure Data Factory → Databricks → Delta Lake → Power BI
+🔐 Cybersecurity
+   ├── Network Security
+   ├── Secure Software Development
+   ├── Cryptography
+   └── Vulnerability Analysis
 
-Artificial Intelligence
-      ↓
-Machine Learning → Edge AI → Transformers → AI Security
+🤖 AI Security
+   ├── Adversarial Machine Learning
+   ├── Transformer Robustness
+   ├── Model Evaluation
+   └── Reliable AI
 
-Cybersecurity
-      ↓
-Network Security → Anomaly Detection → Cryptography
-      ↓
-Post-Quantum Cryptography → Secure Systems
-
-Software Engineering
-      ↓
-React → Full-Stack Applications → APIs → Cloud Systems
+🔒 Post-Quantum Security
+   ├── Quantum-Resistant Cryptography
+   ├── Kyber / ML-KEM
+   ├── Dilithium / ML-DSA
+   └── Hybrid Cryptographic Systems
 ```
 
 ---
 
-# 📈 GitHub Statistics
+# 🧠 Problem Solving
 
-<div align="center">
+I regularly work on programming and problem-solving concepts including:
 
-<img src="https://github-readme-stats.vercel.app/api?username=vkalwaghe&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkalwaghe&layout=compact&langs_count=8&hide_border=true" height="170"/>
-
-</div>
+* Data Structures & Algorithms
+* Arrays
+* Strings
+* Linked Lists
+* Stack
+* Queue
+* Trees
+* Graphs
+* Recursion
+* Searching
+* Sorting
+* Hashing
+* Dynamic Programming
+* Object-Oriented Programming
+* SQL Problem Solving
 
 ---
 
-# 🤝 Connect With Me
+# 📚 Currently Learning
 
-<div align="left">
+```text
+☁️ Data Engineering
+   ├── Azure Data Factory
+   ├── Data Pipelines
+   ├── PySpark
+   ├── ETL / ELT
+   └── Cloud Data Platforms
 
-<a href="mailto:vaibhavkalwaghe05@gmail.com">
-<img src="https://img.shields.io/badge/Email-vaibhavkalwaghe05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+📊 Data Analytics
+   ├── Advanced SQL
+   ├── Exploratory Data Analysis
+   ├── Business KPIs
+   └── Data Visualization
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Kalwaghe-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+🤖 AI / ML
+   ├── Machine Learning
+   ├── Deep Learning
+   ├── Transformers
+   └── AI Security
+
+🔐 Cybersecurity
+   ├── Network Security
+   ├── Cryptography
+   ├── Post-Quantum Cryptography
+   └── Secure Systems
+
+💻 Software Development
+   ├── Java
+   ├── React
+   ├── Angular
+   ├── REST APIs
+   └── Full-Stack Development
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vkalwaghe&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkalwaghe&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vkalwaghe&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+# 🎯 Career Interests
+
+I am interested in opportunities and projects involving:
+
+**Data Engineering** • **Cloud Engineering** • **Data Analytics** • **Artificial Intelligence** • **Machine Learning** • **Cybersecurity** • **Backend Development** • **Full-Stack Development**
+
+I enjoy working on problems where **data, intelligent systems, software engineering, cloud technologies and security intersect.**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
 
 <a href="https://github.com/vkalwaghe">
-<img src="https://img.shields.io/badge/GitHub-vkalwaghe-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-## ⭐ Thanks for visiting!
+<h3 align="center">
+💡 Build • Learn • Secure • Analyze • Engineer
+</h3>
 
-I'm continuously learning, building and exploring new technologies across **Data Engineering, AI/ML, Cybersecurity and Software Development**.
-
-**If you find any project useful, feel free to ⭐ the repository.**
-
----
-
-### 👨‍💻 Vaibhav Kalwaghe
-
-**Information Technology | Data Engineering | AI/ML | Cybersecurity | Software Development**
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>

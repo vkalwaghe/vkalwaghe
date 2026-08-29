@@ -4,20 +4,6 @@
 Information Technology Student | Data Engineering | AI/ML | Cybersecurity | Full-Stack Development
 </h3>
 
-<p align="center">
-  <a href="https://github.com/vkalwaghe">
-    <img src="https://img.shields.io/github/followers/vkalwaghe?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/vkalwaghe">
-    <img src="https://img.shields.io/github/stars/vkalwaghe?label=Stars&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vkalwaghe&label=Profile%20Views&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" width="400"/>
-</p>
-
 ---
 
 # 👨‍💻 About Me
